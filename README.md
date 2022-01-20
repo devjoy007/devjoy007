@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on React Apollo
 - 📫 How to reach me
 
-Email:        **devjoyou(at)gmail.com**
+Email:        **devjoyous(at)gmail.com**
 
 LinkedIn: 
 
