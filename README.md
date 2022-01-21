@@ -6,7 +6,7 @@
 
 Email:        **devjoyous(at)gmail.com**
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/joyous-gurung-abb30522a/
 
 <!---
 devjoy007/devjoy007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
