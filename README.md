@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Joy
 - 👀 I’m interested in Frontend Tech
-- 🌱 I’m currently learning **NodeJS**, **GraphQL**, **Monorepos with yarn**
-- 💞️ I’m looking to collaborate on React Apollo
-- 📫 How to reach me
-- devjoyous(@)gmail.com
+
 
 
 
